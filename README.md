@@ -17,7 +17,7 @@
 - I’m currently learning C++
 - I want to improve my skills from intermediate to expert level on : SQL, C++, HTML, CSS & Java EE
 - I would like to learn : JavaScript
-- 2022 Objectives : 
+- 2022 Objectives : Hustle
 
 
 
