@@ -10,8 +10,8 @@
 
 #### Skills
 - Expert: Java
-- Advanced: Python
-- Intermediate: C++, SQL, HTML, CSS, Java EE
+- Advanced: C++
+- Intermediate: Python, SQL, HTML, CSS, Java EE
 
 #### Goals
 - I’m currently learning C++
