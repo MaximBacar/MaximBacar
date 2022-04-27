@@ -5,7 +5,7 @@
 - Freelance Java Developper
 - Computer Engineering | Concordia University
 - Developping for 9 years
-- Languages: FR & EN
+- Languages: French (First language), English (Fluent), Spanish (Basics) & Haitian Creole (Basics)
 - <img align="left" alt="Canada" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Drapeau_du_Canada.svg" /> <img align="left" alt="Comoros" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg" />
 
 #### Skills
