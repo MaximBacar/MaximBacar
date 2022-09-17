@@ -2,23 +2,16 @@
 
 ### About Me
 #### Maxim Bacar
-- Freelance Java Developper
+- Machine Learning Intern at Environment and Climate Change Canada
 - Computer Engineering | Concordia University
 - Developping for 9 years
-- Languages: French (First language), English (Fluent), Spanish (Basics) & Haitian Creole (Basics)
+- Languages: French, English, Spanish (Basics) & Haitian Creole (Basics)
 - <img align="left" alt="Canada" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Drapeau_du_Canada.svg" /> <img align="left" alt="Comoros" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg" />
 
 #### Skills
 - Expert: Java
-- Advanced: C++
-- Intermediate: Python, SQL, HTML, CSS, Java EE
-
-#### Goals
-- I’m currently learning C++
-- I want to improve my skills from intermediate to expert level on : SQL, C++, HTML, CSS & Java EE
-- I would like to learn : JavaScript
-- 2022 Objectives : Hustle
-
+- Advanced: C++, Python
+- Intermediate: SQL, HTML, CSS, Java EE
 
 
 
